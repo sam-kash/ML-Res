@@ -1,5 +1,5 @@
 # ML-Res
 
-Resouces - 
+Source - 
 https://www.superdatascience.com/machine-learning
 
